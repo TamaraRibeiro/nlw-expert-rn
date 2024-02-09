@@ -2,7 +2,7 @@
   <img src=".github/cover.png" alt="Project cover" width="100%" />
 </p>
 
-## NLW Expert ✨
+# NLW Expert ✨
 
 ## 🖥️ Projeto
 
@@ -19,14 +19,14 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📱 Executando
 
-1. Baixe a aplicação <b>Expo Go</b> em seu iOS ou Android, ou instale um emulador no PC;
-2. Clone o repositório;
+1. Baixe a aplicação <b>Expo Go</b> em seu iOS ou Android, ou instale um emulador no PC
+2. Clone o repositório
 3. Após clonar o repositório, execute o comando na pasta do projeto:
 ```bash
 npx expo start
 ```
 4. Escaneie o QR Code do seu celular ou abra o emulador.
-5. ❗️<b>Não esqueca:</b> No arquivo /src/app/card.tsx adicione um número de WhatsApp.
+5. <b>Não esqueça:</b> No arquivo /src/app/card.tsx adicione um número de WhatsApp❗️
 
 
 
