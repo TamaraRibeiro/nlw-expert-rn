@@ -2,7 +2,7 @@
   <img src=".github/cover.png" alt="Project cover" width="100%" />
 </p>
 
-# NLW Expert ✨
+# ✨ NLW Expert (React Native) ✨
 
 ## 🖥️ Projeto
 
